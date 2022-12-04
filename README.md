@@ -2,9 +2,7 @@
 
 **本着毛juicy在抢救失足运动中提出的“惩前毖后，治病救人”和《转法轮》中的“真正往高层次上带人”的两大指导方针，我写下这篇入门版教程，能帮一个算一个。**
 
-An advanced guide to learn English which might benefit you a lot.
 
-可能是让你受益匪浅的英语进阶指南。
 
 ## 核心原则
 
