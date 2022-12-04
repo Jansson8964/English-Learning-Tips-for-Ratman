@@ -14,9 +14,7 @@ An advanced guide to learn English which might benefit you a lot.
 
 **“就在今天！就在今天！”**
 
-![hyj](img/hyj-16701413645421.jpg)
-
-​                            										“就在今天！”
+![hyj.jpg](assets/hyj.jpg)
 
 
 

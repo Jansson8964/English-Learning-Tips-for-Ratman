@@ -65,7 +65,7 @@
 
 <video src="../assets/r4ogmpahdz591.mp4"></video>
 
-  											                   <font size="2">用词艰深的汉弗莱爵士</font> 
+
 
 > 以下是推荐的泛听来源												   
 
@@ -118,7 +118,7 @@
 
 ### 编程相关
 
-#### 	前端
+#### 		前端
 
 - [laracasts](https://laracasts.com/)
 
