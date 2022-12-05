@@ -52,11 +52,11 @@
 
 - 当字母r出现在单词的元音字母组合中时，美式发音会出现独特的卷舌音。
 
-    (1) f**ar**			c**ar**			l**ar**ge			ch**ar**ge			 sm**ar**t
-
-    (2) d**ear**		 cl**ear**		 f**ear**			 ch**eer**			   h**ere**
-
-    (3) **air**			 d**are**		 p**ear**		     h**eir**				 wh**ere**
+    |    1     |     2     |     3     |     4      |     5     |
+    | :------: | :-------: | :-------: | :--------: | :-------: |
+    | f**ar**  |  c**ar**  | l**ar**ge | ch**ar**ge | sm**ar**t |
+    | d**ear** | cl**ear** | f**ear**  | ch**eer**  | h**ere**  |
+    | **air**  | d**are**  | p**ear**  |  h**eir**  | wh**ere** |
 
 - 元音 [ɑ:] 在用于 [f] ，[ɵ] ,  [s] 前时，美语发音为 [æ] 
 
@@ -121,7 +121,8 @@
 
 #### 英美发音辅音区别
 
-字母"t"可出现在单词的词首、词中和词尾三个部位。其中字母"t"在词首与词尾时的英美发音相同，例如，tight [tait]。而其在词中时，英式英语和美式英语却有两种读法。
+- 字母"t"可出现在单词的词首、词中和词尾三个部位。其中字母"t"在词首与词尾时的英美发音相同，例如，tight [tait]。而其在词中时，英式英语和美式英语却有两种读法。
+
 
 |   英音[t]   |  美音[d]   |
 | :---------: | :--------: |
@@ -221,7 +222,7 @@
 
   [k] +其他字母 
 
-  熟读这几个单词：success   circle   circumstances
+  熟读这几个单词：success  			 circle   			circumstances
 
 - 倒三原则 
 
@@ -243,9 +244,19 @@
 
   ic 结尾时，重音在倒数第二个音节上 
 
-  photograph 				photographer 				photographic 
+  photograph 
 
-  economic 					fantastic 					 	 enthusiastic 
+  photographer 				
+  
+  photographic 
+  
+  
+  
+  economic
+  
+  fantastic 					 	 
+  
+  enthusiastic 
 
 #### 短语或句子的重音
 
