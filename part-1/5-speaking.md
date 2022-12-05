@@ -222,7 +222,7 @@
 
   [k] +其他字母 
 
-  熟读这几个单词：success  			 circle   			circumstances
+  熟读这几个单词：success  		 circle   		circumstances
 
 - 倒三原则 
 
@@ -249,8 +249,7 @@
   photographer 				
   
   photographic 
-  
-  
+
   
   economic
   
