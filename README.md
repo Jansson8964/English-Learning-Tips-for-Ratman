@@ -43,11 +43,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 
 > 本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
-## 特色
-
-![Feature@2x.png](assets/Feature.png)
-![How@2x.png](assets/How.png)
-
 ## 章节
 
 [![understanding@2x.png](assets/understanding@2x.png)](part-1/1-understanding.md)

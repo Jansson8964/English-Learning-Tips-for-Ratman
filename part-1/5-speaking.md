@@ -52,11 +52,11 @@
 
 - 当字母r出现在单词的元音字母组合中时，美式发音会出现独特的卷舌音。
 
-  (1) f**ar**			c**ar**			l**ar**ge			ch**ar**ge			 sm**ar**t
+   (1) f**ar**			c**ar**			l**ar**ge			ch**ar**ge			 sm**ar**t
 
-  (2) d**ear**		 cl**ear**		 f**ear**			 ch**eer**			   h**ere**
+   (2) d**ear**		 cl**ear**		 f**ear**			 ch**eer**			   h**ere**
 
-  (3) **air**			 d**are**		 p**ear**		     h**eir**				 wh**ere**
+   (3) **air**			 d**are**		 p**ear**		     h**eir**				 wh**ere**
 
 - 元音 [ɑ:] 在用于 [f] ，[ɵ] ,  [s] 前时，美语发音为 [æ] 
 
@@ -227,7 +227,17 @@
 
   多音节单词（超过两个音节），重音落在倒数第三个音节上，试着读一下以下单词：
 
-  monopoly 		metropolis 		original 		origin 		photograph 		photographer 
+  monopoly 
+
+  metropolis 		
+
+  original 		
+
+  origin 		
+
+  photograph 		
+
+  photographer 
 
 - 倒三原则的特殊情况 
 
