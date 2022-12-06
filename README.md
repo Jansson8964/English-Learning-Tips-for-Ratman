@@ -1,8 +1,14 @@
-# 项目介绍
+
+
+## 项目介绍
+
+根据 [浪人简明英语教程](https://www.reddit.com/user/DontForgeUrTowel/comments/vdlicn/%E6%B5%AA%E4%BA%BA%E7%AE%80%E6%98%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E7%A8%8B/) 改编
+
+***感谢才华横溢的原作者***:[reddit u/DontForgeUrTowel](https://www.reddit.com/user/DontForgeUrTowel/)
+
+## 写在前面
 
 **本着毛juicy在抢救失足运动中提出的“惩前毖后，治病救人”和《转法轮》中的“真正往高层次上带人”的两大指导方针，我写下这篇入门版教程，能帮一个算一个。**
-
-
 
 ## 核心原则
 
@@ -68,7 +74,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 好几个人推荐过[Ludwig.guru](https://ludwig.guru/)：如果你不确定自己写的句子是否通顺，可以把句子扔到这个搜索引擎里看看。
 
 最后是我个人常用的一个网站[Capitalize My Title](https://capitalizemytitle.com/)：当你在写邮件、文章标题，不确定哪种情况需要首字母大写时，这个网站可以自动帮你解决这个难题。
-
 
 
 
