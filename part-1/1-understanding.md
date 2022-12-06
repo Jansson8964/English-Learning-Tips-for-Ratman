@@ -40,7 +40,8 @@
 - [学习与人生——700篇博文之感悟](https://program-think.blogspot.com/2020/12/Study-and-Life.html)
 - [时间与人生——跨入本世纪20年代的随想](https://program-think.blogspot.com/2019/12/Time-and-Life.html)
 - [如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”](https://program-think.blogspot.com/2019/10/Systematic-Learning.html)
-- 
+
+
 ### 明确场景
 
 细分自己学习英语的场景和需求，如：
