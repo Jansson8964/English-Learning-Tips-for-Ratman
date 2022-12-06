@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-根据 [浪人简明英语教程](https://www.reddit.com/user/DontForgeUrTowel/comments/vdlicn/%E6%B5%AA%E4%BA%BA%E7%AE%80%E6%98%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E7%A8%8B/) 改编
+本项目根据 [浪人简明英语教程](https://www.reddit.com/user/DontForgeUrTowel/comments/vdlicn/%E6%B5%AA%E4%BA%BA%E7%AE%80%E6%98%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E7%A8%8B/) 改编
 
 ***感谢才华横溢的原作者***:[reddit u/DontForgeUrTowel](https://www.reddit.com/user/DontForgeUrTowel/)
 
@@ -40,8 +40,6 @@ The only way to do great work is to love what you do. If you haven't found it ye
 >成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
 
 **热爱之于学习**，同样如此。
-
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
 
 ## 英语水平等级
 
