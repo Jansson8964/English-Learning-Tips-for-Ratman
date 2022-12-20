@@ -13,3 +13,13 @@
 另外，英文写作两大名著*On Writing Well*和*The Elements of Style*，如雷贯耳，但是我估计浪人们是不会永远读的。
 
 所以我只推荐[*Federal Plain Language Guidelines*](https://www.plainlanguage.gov/guidelines/)——**这是美国联邦政府的简明英语指导手册**，虽然多达118页，但是行文非常流畅，读完后就基本明白如何用英语写人话了。
+
+**语法:** 
+写作的基础是正确的语法，语法书可以看[旋元佑进阶文法](https://grammar.codeyu.com/)
+
+**写作课：**
+
+1. [Academic English: Writing Specialization](https://www.coursera.org/specializations/academic-english)
+2. [Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences)
+3. [哈佛写作项目（The Harvard Writing Project）](https://writingproject.fas.harvard.edu/pages/writing-guides)
+
